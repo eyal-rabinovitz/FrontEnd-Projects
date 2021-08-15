@@ -1,2 +1,2 @@
-# FrontEnd-Projects
+# FullStack-Projects
 SVCollege
